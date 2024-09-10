@@ -1,0 +1,3 @@
+D:/codes/codes_course/introduction_to_AI/lab2/hw_cpp_version/cmake-build-debug/CMakeFiles/hw_cpp_version.dir
+D:/codes/codes_course/introduction_to_AI/lab2/hw_cpp_version/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/codes/codes_course/introduction_to_AI/lab2/hw_cpp_version/cmake-build-debug/CMakeFiles/rebuild_cache.dir
